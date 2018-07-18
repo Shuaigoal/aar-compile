@@ -18,7 +18,5 @@ apply aar from module's module
       }
       
 # pictures
-<table>
-<td><img src="/a.png"></td>
-<td><img src="/b.png"></td>
-</table>
+<img src="/a.png">
+<img src="/b.png">
