@@ -1,7 +1,7 @@
 # aar-compile
 apply aar from module's module
 
-## In lib module build.gradle, Add flatDir in android{}
+# In lib module build.gradle, Add flatDir in android{}
 
     repositories {
             flatDir {
@@ -9,7 +9,7 @@ apply aar from module's module
             }
         }
         
-## In main project module's build.gradle, Add flatDir too with detail path
+# In main project module's build.gradle, Add flatDir too with detail path
   
     repositories {
           flatDir {
@@ -17,11 +17,8 @@ apply aar from module's module
           }
       }
       
-## pictures
-
-	<table>
-		<tr>
-			<td><img src="/a.png"></td>
-			<td><img src="/b.png"></td>
-		</tr>
-	</table>
+# pictures
+<table>
+<td><img src="/a.png"></td>
+<td><img src="/b.png"></td>
+</table>
